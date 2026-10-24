@@ -2,8 +2,8 @@
 
 int main(){
 
-  printf("esse é outro arquivo add pelo terminal!\n");
-
+    printf("esse é outro arquivo add pelo terminal!\n");
+    printf("modificando os dois arquivos c\n");
   
-  return 0;
+    return 0;
 }
